@@ -7,13 +7,34 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/AraruamaQueEuQuero.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
 </head>
 <body>
     <header>
-            <div class="container navbar navbar-bg">
-                <img src="~/2.png" class="cabecalho"  />
-                <img src="~/1.png" class="cabecalho" />
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <div class="logo">
+                    <a asp-area="" asp-page="/Index">
+
+                    <img src="~/Logo transparente.png" width="250px" />
+                    </a>
+
+                </div>
+                
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-end">
+                    <ul class="navbar-nav flex-grow-0">
+                        <li class="nav-item btn btn-outline-primary m-3">
+                            <a class="nav-link text-dark"  asp-area="" asp-page="/Projeto">Projeto</a>
+                        </li>
+
+                    </ul>
+                </div>
             </div>
+        </nav>
     </header>
     <div class="container">
         <main role="main" class="pb-3">
