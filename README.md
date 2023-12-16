@@ -7,8 +7,6 @@ Site contém Carrossel com 4 imagens.
 Vídeo.
 2 páginas de conteúdo.
 
-![Captura de tela 2023-12-12 143949](https://github.com/rodrigo-travessa/AraruamaQueEuQuero/assets/90840099/c2c73004-be8b-484d-a080-2495b2bc195d)
-![Captura de tela 2023-12-12 144004](https://github.com/rodrigo-travessa/AraruamaQueEuQuero/assets/90840099/dc4a3c16-fda9-4236-9d83-6b235b66a048)
-![Captura de tela 2023-12-12 143957](https://github.com/rodrigo-travessa/AraruamaQueEuQuero/assets/90840099/1bcebdff-e788-464e-9707-cf5098aff097)
-
-![Captura de tela 2023-12-12 144142](https://github.com/rodrigo-travessa/AraruamaQueEuQuero/assets/90840099/cfcafea7-31cf-4f36-916d-eb99ba311988)
+![Captura de tela 2023-12-16 135347](https://github.com/rodrigo-travessa/AraruamaQueEuQuero/assets/90840099/e194b617-c365-45df-be9e-c156e3494ae4)
+![Captura de tela 2023-12-16 135359](https://github.com/rodrigo-travessa/AraruamaQueEuQuero/assets/90840099/1d5ed818-2434-4286-9342-51c9a8f08d33)
+![Captura de tela 2023-12-16 135412](https://github.com/rodrigo-travessa/AraruamaQueEuQuero/assets/90840099/b8943c62-531c-4012-a123-5d9892ae64e8)
